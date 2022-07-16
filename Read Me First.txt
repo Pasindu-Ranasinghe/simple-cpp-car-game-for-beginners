@@ -3,8 +3,8 @@
 *This program has sounds,So i plugin earphone or separate speaker.
 *To open the program,open the application which is "GAME".
 
-Copyright © 2018 2D Challenging(Group 2). All Rights Reserved.
-
+Copyright © 2022 2D Challenging(Group 2). All Rights Reserved.
+****
 
 
 
